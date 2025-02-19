@@ -8,4 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # todo_app
 
-Write "npm run start" to start the frontend and backend
+Write "npm run start" to start both frontend and backend
+
+For backend it uses json server
+For frontend it uses React
