@@ -1,0 +1,53 @@
+.app{
+    margin: 0 auto;
+    width: 1000px;
+    flex-wrap: wrap;
+  }
+  .logo{
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    font-family: "Rubik", serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .form{
+    display: flex;
+    justify-content: space-between !important;
+    gap: 10px;
+  }
+  .inputField{
+    width: 800px;
+  }
+  .itemList{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 10px 0;
+    border: 1px solid blue;
+    border-radius: 10px;
+    font-family: "Rubik", serif;
+    width: 800px !important;
+    height: 80px;
+    font-size: large;
+  }
+  .list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: "Rubik", serif;
+  }
+  .removeButton{
+    margin: 0;
+    padding: 0;
+    height: 50px;
+  }
+  
